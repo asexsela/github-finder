@@ -1,6 +1,3 @@
-import SpinnerImg from './assets/spinner.gif'
-
-
 function Spinner() {
     return <div className='flex justify-center w-100 mt-20'>
         <div className="sk-chase">
